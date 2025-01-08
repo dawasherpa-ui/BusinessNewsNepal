@@ -2,6 +2,8 @@
 
 This repository contains JSON data of business news articles collected daily from various sources. The data is structured and updated regularly to provide a reliable source of information for analysis, research, or other purposes.
 
+##Extracts data every 6hrs interval
+
 ## 📂 Available Data
 
 The JSON files are organized by date and can be accessed via the following structure:
